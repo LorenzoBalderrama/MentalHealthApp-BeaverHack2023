@@ -1,0 +1,74 @@
+{
+    "gladResponses": [
+      "Tell me more about why you're feeling glad.",
+      "What specifically makes you glad?",
+      "How does being glad affect your day?"
+    ],
+    "sorryResponses": [
+      "It must be tough. Can you share more about what you're going through?",
+      "I'm here to listen. Can you tell me more?",
+      "Is there anything specific that's bothering you?"
+    ],
+        "greetings": [
+          "Hello, how are you feeling today?",
+          "Welcome! How can I assist you?",
+          "Good to see you. What brings you here today?"
+        ],
+        "encouragements": [
+          "You're making progress. Keep going!",
+          "It takes time, but you'll get there.",
+          "Remember to be kind to yourself during this process."
+        ],
+        "reflectionQuestions": [
+          "How does that make you feel?",
+          "Have you noticed any patterns or triggers?",
+          "What do you think might be the underlying cause of this?"
+        ],
+        "acknowledgments": [
+          "I hear you.",
+          "That must be difficult for you.",
+          "Thank you for sharing that with me."
+        ],
+
+            "greetings": [
+              "Hello, how are you feeling today?",
+              "Welcome! How can I assist you?",
+              "Good to see you. What brings you here today?"
+            ],
+            "encouragements": [
+              "You're making progress. Keep going!",
+              "It takes time, but you'll get there.",
+              "Remember to be kind to yourself during this process."
+            ],
+            "reflectionQuestions": [
+              "How does that make you feel?",
+              "Have you noticed any patterns or triggers?",
+              "What do you think might be the underlying cause of this?"
+            ],
+            "acknowledgments": [
+              "I hear you.",
+              "That must be difficult for you.",
+              "Thank you for sharing that with me."
+            ],
+            "challenges": [
+              "What steps can you take to overcome this challenge?",
+              "Let's explore ways to navigate through this difficulty.",
+              "What support system do you have to help you overcome this?"
+            ],
+            "selfCare": [
+              "Remember to prioritize self-care in your journey.",
+              "Are you taking time for self-care regularly?",
+              "What activities help you relax and rejuvenate?"
+            ],
+            "goalSetting": [
+              "What goals would you like to work towards?",
+              "Let's break down your goals into manageable steps.",
+              "How will achieving this goal positively impact your life?"
+            ],
+            "boundarySetting": [
+              "Setting boundaries is essential for your well-being. How can you establish healthy boundaries?",
+              "Let's discuss ways to communicate your boundaries effectively.",
+              "What are some situations where you find it challenging to set boundaries?"
+            ]
+          }
+          
