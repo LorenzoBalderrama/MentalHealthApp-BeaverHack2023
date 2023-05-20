@@ -1,4 +1,4 @@
-# Mental Health App - Created by Lorenzo B and Audrey 
+# Mental Health App - Created by LorenzoBalderrama and aflanders7
 
 This project is a chatbot implementation using Elizabot.js for the backend and Svelte for the frontend. It provides a conversational interface with a therapy bot that responds to user inputs based on predefined responses. The backend is built using Node.js and the Elizabot.js package, while the frontend is developed with Svelte, HTML, and CSS.
 
