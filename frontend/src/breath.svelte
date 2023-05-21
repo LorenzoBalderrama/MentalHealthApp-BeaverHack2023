@@ -2,6 +2,16 @@
     import Global from "./global.svelte";
     import Router from 'svelte-spa-router';
 
+    (() => {
+            if (window.localStorage) {
+                if (!localStorage.getItem('reload')) {
+                    localStorage['reload'] = true;
+                    window.location.reload();
+                } else {
+                    localStorage.removeItem('reload');
+                }
+            }
+        })();
 
   let index = 0;
   let circleInfo = [
