@@ -65,7 +65,7 @@
       :global(footer) {
           background: var(--dark);
           color:whitesmoke;
-          padding: 15px;
+          padding: 10px;
           position: fixed;
           left: 0px;
           bottom:0px;
@@ -80,6 +80,7 @@
         top: 40px;
         width: 100%;
         left: 0%;
+        background-color:var(--light);
       }
     
       :global(.container2 h2){
